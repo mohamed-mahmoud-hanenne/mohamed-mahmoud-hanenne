@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Maurican**
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **React JS, Node JS, Flutter**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL**
 
 - 📫 How to reach me **medhanenne38@gmail.com**
 
