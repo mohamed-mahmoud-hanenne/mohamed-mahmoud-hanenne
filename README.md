@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Maurican**
 
-- 🌱 I’m currently learning **React JS, Node JS, Flutter**
+- 🌱 I’m currently learning **Angular JS, React JS, Node JS, Flutter**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL**
 
