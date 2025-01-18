@@ -22,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-mahmoud-hanenne&show_icons=true&locale=en" alt="mohamed-mahmoud-hanenne" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mahmoud-hanenne&" alt="mohamed-mahmoud-hanenne" /></p>
