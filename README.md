@@ -97,21 +97,3 @@
 
 📄 **CV:**  
 👉 <a href="https://drive.google.com/file/d/19m0SU3CIo_UGja53BQN99GBZfm5UHJ1G/view?usp=sharing">Voir mon CV</a>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-mahmoud-hanenne&theme=algolia&no-frame=true&row=1"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-mahmoud-hanenne&show_icons=true&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-mahmoud-hanenne&show_icons=true"/>
-</p>
