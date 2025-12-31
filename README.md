@@ -1,89 +1,117 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud Hanenne</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-mahmoud-hanenne&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-mahmoud-hanenne" /> </p>
-<img align="right" alt"coding" width="400" src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png">
 
-- 🔭 I’m currently working on **AI Projects**
-
-- 🌱 I’m currently learning **Python** and **AI**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL, PLSQL, Java, Angular**
-
-- 📫 How to reach me **medhanenne38@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-mahmoud-hanenne-774955231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mahmoud hanenne" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-mahmoud-hanenne&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Engineer-blueviolet?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Science-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-Systems-green?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+<img align="right" alt="coding" width="400"
+     src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png">
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working on **AI, Data Science & IoT Projects**
+- 🌱 Learning **Advanced AI, Deep Learning & Generative AI**
+- 💬 Ask me about **AI, ML, DL, Angular, Java, Spring Boot, Databases**
+- 📫 Reach me at **medhanenne38@gmail.com**
+
+---
+
+### 🔗 Connect with me
 <p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <!-- Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <!-- MATLAB -->
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <!-- Jupyter Notebook -->
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter notebook" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/mohamed-mahmoud-hanenne-774955231/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30" width="40"/>
   </a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-mahmoud-hanenne&show_icons=true&locale=en&layout=compact" alt="mohamed-mahmoud-hanenne" /></p>
+## 🚀 Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-mahmoud-hanenne&show_icons=true&locale=en" alt="mohamed-mahmoud-hanenne" /></p>
+### 🎨 Frontend & Mobile
+<p align="left">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+</p>
 
+---
+
+### ⚙️ Backend, Databases & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+---
+
+### 🤖 AI, Data Science & IoT
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/8618/8618887.png" width="40" alt="ML"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="40" alt="DL"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40" alt="GenAI"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1046/1046857.png" width="40" alt="IoT"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🧠 **AI Credit Scoring (Q-Learning, Fuzzy Logic, Flask + Angular)**
+- 🤖 **Generative AI – LSTM Recipe Generator**
+- 📊 **Data Science & ML Projects (Kaggle, Colab)**
+- 🌐 **IoT Smart Monitoring Systems**
+- ⚙️ **Spring Boot + Angular Enterprise Applications**
+
+---
+
+## 🎓 Open to Opportunities
+🔎 **Open to PFE / Internship in:**
+- Artificial Intelligence
+- Data Science
+- Machine Learning / Deep Learning
+- Generative AI
+- Intelligent IoT Systems
+
+📄 **CV:**  
+👉 <a href="https://drive.google.com/file/d/19m0SU3CIo_UGja53BQN99GBZfm5UHJ1G/view?usp=sharing">Voir mon CV</a>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-mahmoud-hanenne&theme=algolia&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-mahmoud-hanenne&show_icons=true&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-mahmoud-hanenne&show_icons=true"/>
+</p>
