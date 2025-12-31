@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Engineer-blueviolet?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data-Science-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-Systems-green?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Data-Science-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-Systems-green?style=for-the-badge&logo=arduino&logoColor=white"/> -->
 </p>
 
 <img align="right" alt="coding" width="400"
@@ -35,15 +35,13 @@
 
 ## 🚀 Languages & Tools
 
-### 🎨 Frontend & Mobile
+### 🎨 Frontend
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 </p>
 
 ---
