@@ -94,4 +94,4 @@
 - Intelligent IoT Systems
 
 📄 **CV:**  
-👉 <a href="https://drive.google.com/file/d/19m0SU3CIo_UGja53BQN99GBZfm5UHJ1G/view?usp=sharing">View</a>
+👉 <a href="https://drive.google.com/file/d/1XGCdV8W3SowP3UYcJYf54AK33aYA_-mp/view?usp=sharing">View</a>
